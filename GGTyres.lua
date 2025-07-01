@@ -1,4 +1,4 @@
-require('gg/props')
+require('props')
 
 local NUM_SAMPLES = 100
 
